@@ -1,16 +1,65 @@
-# restaurant_booking_app
+# Restaurant Booking App
 
-A new Flutter project.
+The restaurant booking app will allow users to choose and book a table with their favorite restaurants in the nearby area.
+It will provide a view (and a map) of the inside of the restaurant.
+Users can see which tables are already booked and which are available, and they can book the table.
+The app will contain menus, table availability, and recommendations and reviews about the restaurant and the food they serve.
 
-## Getting Started
+## This Project will contain:
 
-This project is a starting point for a Flutter application.
+Home Page
+-	List of restaurants where you can do your reservation
+-	Browse by Cuisine
+-	Browse by Lunch
+-	Browse by Breakfast
+-	Browse by Dinner
+-	Browse by Bar/Restaurant
+-	Browse by new restaurants
 
-A few resources to get you started if this is your first Flutter project:
+Details Page of Restaurant (Restaurant Profile)
+-	Notes from the restaurant
+-	Open times
+-	Location, and bringing you the map page
+-	Price
+-	Menu
+-	Restaurant info
+-	Working hours
+-	Images of the place (or eventually a video)
+-	Share button (to share it to friends)
+-	Type of the Restaurant
+-	Reviews & recommendations
+-	Dress Code
+-	Payment Options
+-	Head Chef
+-	Accessibility (for wheelchair access)
+-	Parking (Valet)
+-	Dining Areas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Reservation Page (after the details page or directly from the homepage)
+-	Date of reservation
+-	No of guests
+-	Time of reservation
+-	If it has no account (Insert Name & Email & Phone)
+-	Special Request
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Welcome Page
+-	Showing some images and some info about the app
+-	Sign in or Register (brings you to those pages)
+
+Account Creation Page (Register)
+-	Name & Email & Phone & Password
+
+Support Section
+-	Where you can contact the customer service through messaging
+
+About Section
+
+My Reservations Section/Page
+-	See your current or previous reservations.
+
+Theme Restaurants Section
+-	A page which has categorized the restaurants.
+
+Search Section
+-	You can also search based upon your filter.
+
