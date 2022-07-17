@@ -5,7 +5,7 @@ It will provide a view (and a map) of the inside of the restaurant.
 Users can see which tables are already booked and which are available, and they can book the table.
 The app will contain menus, table availability, and recommendations and reviews about the restaurant and the food they serve.
 
-## This Project will contain:
+## This Project will contain (Features):
 
 Home Page
 -	List of restaurants where you can do your reservation
